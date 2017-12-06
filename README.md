@@ -80,8 +80,7 @@ I made it to understand more about bitcoin. Jks. I made it for Miso's birthday (
 - Can I have a picture of your cat in a taco outfit?
 
 Sure
-
 <p align="center">
-    <img width="434" height="326" alt="misocoin logo" src="https://i.imgur.com/l7e4wvk.jpg" />
+    <img width="434" height="326" alt="misocoin logo" src="https://i.imgur.com/WmeQ9RD.jpg" />
 </p>
 
